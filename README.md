@@ -6,7 +6,7 @@
 
 PM × Designer × AI Workflow ・ 高雄
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sodahsu.com-1f2937?style=for-the-badge)](https://sodahsu.com)
+[![Site](https://img.shields.io/badge/Site-sodahsu.com-1f2937?style=for-the-badge)](https://sodahsu.com)
 [![Lab](https://img.shields.io/badge/LAB.-lab.sodahsu.com-1f2937?style=for-the-badge)](https://lab.sodahsu.com)
 [![PMP](https://img.shields.io/badge/PMP%C2%AE-Certified-1f2937?style=for-the-badge)](https://www.credly.com/badges/781fedf7-6913-4f7f-ac29-8df876923da9/public_url)
 
@@ -51,6 +51,6 @@ PM × Designer × AI Workflow ・ 高雄
 
 <div align="center">
 
-如果你的團隊正在把 AI 導入產品或開發流程，卡在「它能做，但我們不敢放手」，這正是我想一起解的問題。從 [sodahsu.com](https://sodahsu.com) 找到我。
+更多實驗與紀錄，在 [LAB.](https://lab.sodahsu.com) 與 [sodahsu.com](https://sodahsu.com)。
 
 </div>
