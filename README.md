@@ -6,7 +6,6 @@
 
 PM × Designer × AI Workflow ・ 高雄
 
-[![Site](https://img.shields.io/badge/Site-sodahsu.com-1f2937?style=for-the-badge)](https://sodahsu.com)
 [![Lab](https://img.shields.io/badge/LAB.-lab.sodahsu.com-1f2937?style=for-the-badge)](https://lab.sodahsu.com)
 [![PMP](https://img.shields.io/badge/PMP%C2%AE-Certified-1f2937?style=for-the-badge)](https://www.credly.com/badges/781fedf7-6913-4f7f-ac29-8df876923da9/public_url)
 
@@ -19,7 +18,6 @@ PM × Designer × AI Workflow ・ 高雄
 我是 Design Lead，也是 PMP 認證的 PM。現在把大部分時間花在 AI 協作流程：AI 是新材料，難題不在它多會寫，而在控制感、不確定性與可恢復性。
 
 - 🧪 在 [LAB.](https://lab.sodahsu.com) 寫 AI Coding 與前端互動實驗
-- 🗂️ 在 [sodahsu.com](https://sodahsu.com) 整理作品與專案紀錄
 
 ## 我怎麼想事情
 
@@ -51,6 +49,6 @@ PM × Designer × AI Workflow ・ 高雄
 
 <div align="center">
 
-更多實驗與紀錄，在 [LAB.](https://lab.sodahsu.com) 與 [sodahsu.com](https://sodahsu.com)。
+更多實驗與紀錄，在 [LAB.](https://lab.sodahsu.com)。
 
 </div>
