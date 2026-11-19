@@ -38,6 +38,13 @@ PM × Designer × AI Workflow ・ PMP ・ 高雄
 
 ## 工具與方法
 
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **方法**：OpenSpec（規格先於程式碼）・Orca（多 Agent 協作）・Claude（AI 協作夥伴）・PMP（範圍、利害關係人、取捨）
