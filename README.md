@@ -46,8 +46,10 @@ PM × Designer × AI Workflow ・ PMP ・ 高雄
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**方法**：OpenSpec（規格先於程式碼）・Orca（多 Agent 協作）・Claude（AI 協作夥伴）・PMP（範圍、利害關係人、取捨）
+**方法**：OpenSpec（規格先於程式碼）・Orca（多 Agent 協作）・Claude・Codex・Gemini（AI 協作夥伴）・PMP（範圍、利害關係人、取捨）
 
 ---
 
