@@ -4,7 +4,7 @@
 
 **把 AI 帶進團隊，讓它成為能被控制、能被信任、做錯了能回復的工作夥伴。**
 
-PM × Designer × AI Workflow ・ PMP ・ 高雄
+PM × Designer × AI Workflow ・ 高雄
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sodahsu.com-1f2937?style=for-the-badge)](https://sodahsu.com)
 [![Lab](https://img.shields.io/badge/LAB.-lab.sodahsu.com-1f2937?style=for-the-badge)](https://lab.sodahsu.com)
@@ -39,18 +39,13 @@ PM × Designer × AI Workflow ・ PMP ・ 高雄
 
 ## 工具與方法
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white)
+**設計與前端**
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 
-**方法**：OpenSpec（規格先於程式碼）・Orca（多 Agent 協作）・Claude・Codex・Gemini（AI 協作夥伴）・PMP（範圍、利害關係人、取捨）
+**AI 協作夥伴**
+![Claude](https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white)
+
+**方法**：OpenSpec（規格先於程式碼）・Orca（多 Agent 協作）
 
 ---
 
