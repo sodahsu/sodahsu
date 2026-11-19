@@ -8,7 +8,7 @@ PM × Designer × AI Workflow ・ 高雄
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sodahsu.com-1f2937?style=for-the-badge)](https://sodahsu.com)
 [![Lab](https://img.shields.io/badge/LAB.-lab.sodahsu.com-1f2937?style=for-the-badge)](https://lab.sodahsu.com)
-![PMP](https://img.shields.io/badge/PMP%C2%AE-Certified-1f2937?style=for-the-badge)
+[![PMP](https://img.shields.io/badge/PMP%C2%AE-Certified-1f2937?style=for-the-badge)](https://www.credly.com/badges/781fedf7-6913-4f7f-ac29-8df876923da9/public_url)
 
 </div>
 
